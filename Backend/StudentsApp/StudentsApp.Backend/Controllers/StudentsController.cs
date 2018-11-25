@@ -27,5 +27,19 @@ namespace StudentsApp.Backend.Controllers
             //select * from students
             return Ok(_context.Student.ToList());
         }
+
+        [HttpPost]
+        public IActionResult CreateStudent(Student newStudent)
+        {
+            if(!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            _context.Student.Add(newStudent);
+            _context.SaveChanges();
+
+            return CreatedAtAction("GetStudents", new { id = newStudent.IdStudent}, newStudent);
+        }
     }
 }
