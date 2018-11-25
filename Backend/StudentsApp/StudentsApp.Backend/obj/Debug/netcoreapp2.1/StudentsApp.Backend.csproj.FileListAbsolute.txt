@@ -1,0 +1,14 @@
+Z:\PRO_LAB\SampleWebCoreApp\Backend\StudentsApp\StudentsApp.Backend\bin\Debug\netcoreapp2.1\StudentsApp.Backend.deps.json
+Z:\PRO_LAB\SampleWebCoreApp\Backend\StudentsApp\StudentsApp.Backend\bin\Debug\netcoreapp2.1\StudentsApp.Backend.runtimeconfig.json
+Z:\PRO_LAB\SampleWebCoreApp\Backend\StudentsApp\StudentsApp.Backend\bin\Debug\netcoreapp2.1\StudentsApp.Backend.runtimeconfig.dev.json
+Z:\PRO_LAB\SampleWebCoreApp\Backend\StudentsApp\StudentsApp.Backend\bin\Debug\netcoreapp2.1\StudentsApp.Backend.dll
+Z:\PRO_LAB\SampleWebCoreApp\Backend\StudentsApp\StudentsApp.Backend\obj\Debug\netcoreapp2.1\StudentsApp.Backend.csprojAssemblyReference.cache
+Z:\PRO_LAB\SampleWebCoreApp\Backend\StudentsApp\StudentsApp.Backend\obj\Debug\netcoreapp2.1\StudentsApp.Backend.csproj.CoreCompileInputs.cache
+Z:\PRO_LAB\SampleWebCoreApp\Backend\StudentsApp\StudentsApp.Backend\obj\Debug\netcoreapp2.1\StudentsApp.Backend.RazorAssemblyInfo.cache
+Z:\PRO_LAB\SampleWebCoreApp\Backend\StudentsApp\StudentsApp.Backend\obj\Debug\netcoreapp2.1\StudentsApp.Backend.RazorAssemblyInfo.cs
+Z:\PRO_LAB\SampleWebCoreApp\Backend\StudentsApp\StudentsApp.Backend\obj\Debug\netcoreapp2.1\StudentsApp.Backend.AssemblyInfoInputs.cache
+Z:\PRO_LAB\SampleWebCoreApp\Backend\StudentsApp\StudentsApp.Backend\obj\Debug\netcoreapp2.1\StudentsApp.Backend.AssemblyInfo.cs
+Z:\PRO_LAB\SampleWebCoreApp\Backend\StudentsApp\StudentsApp.Backend\obj\Debug\netcoreapp2.1\StudentsApp.Backend.RazorTargetAssemblyInfo.cache
+Z:\PRO_LAB\SampleWebCoreApp\Backend\StudentsApp\StudentsApp.Backend\bin\Debug\netcoreapp2.1\StudentsApp.Backend.pdb
+Z:\PRO_LAB\SampleWebCoreApp\Backend\StudentsApp\StudentsApp.Backend\obj\Debug\netcoreapp2.1\StudentsApp.Backend.dll
+Z:\PRO_LAB\SampleWebCoreApp\Backend\StudentsApp\StudentsApp.Backend\obj\Debug\netcoreapp2.1\StudentsApp.Backend.pdb
